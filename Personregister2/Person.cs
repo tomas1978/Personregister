@@ -36,7 +36,7 @@ namespace Personregister2
                     ålder = value;
             }
         }
-
+       
         public string Adress
         {
             get { return adress; }
